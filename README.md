@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on school work at Northwest Missouri State University
-- 🌱 I’m currently learning alot 
+- 🔭 Graduated from Northwest Missouri State University
+- 🌱 I’m currently freelancing and earning more skills and certificates  
 - 👯 I’m looking to collaborate on Data science and Robotics projects
-- 🤔 I’m looking for help with Internships
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with Internships, full time and contract job offers 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am from Nigeria 
