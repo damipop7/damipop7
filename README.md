@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I am from Nigeria and I love soccer.
 - I do not require visa sponsorship at this moment. 
 - Here is my contact information.
-  Linkedin: https://www.linkedin.com/in/damipopoola/
-  Email: damipop7@gmail.com
-  Phone number: 6605280976
+  Linkedin: https://www.linkedin.com/in/damipopoola/ |
+  Email: damipop7@gmail.com |
+  Phone number: 6605280976 
